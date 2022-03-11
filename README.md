@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src= "./walk.gif" width=250><br>
+<img src= "./walkthrough.gif" width=250><br>
